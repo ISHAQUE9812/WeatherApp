@@ -6,7 +6,7 @@ A sleek and responsive weather application built using **React.js** that lets us
 
 ## 📸 Demo
 
-![WeatherApp Demo](https://your-demo-screenshot-url.com)  
+![Image](https://github.com/user-attachments/assets/37346410-2b5f-44eb-ba2f-5f198e5c5a73)
 <!-- Replace with real screenshot or GIF -->
 
 ---
